@@ -1,8 +1,8 @@
 class CreatePlayers < ActiveRecord::Migration
   def change
     create_table :players do |t|
-      t.decimal :rank
       t.string :name
+      t.decimal :solved
 
       t.timestamps null: false
     end
