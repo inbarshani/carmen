@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  female: false
+  hair: 9.99
+  food: 9.99
+  sport: 9.99
+  hobby: 9.99
+  music: 9.99
+
+two:
+  female: false
+  hair: 9.99
+  food: 9.99
+  sport: 9.99
+  hobby: 9.99
+  music: 9.99
